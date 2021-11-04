@@ -11,7 +11,9 @@ Implemente una aplicación de escritorio en el lenguaje de su preferencia que pe
 Ejemplo de datos almacenados en el archivo:
 
 234 3456
+
 145 45678
+
 12 344556
 
 - El archivo se puede generar las veces que el usuario desee.
@@ -31,4 +33,5 @@ Ejemplo de datos almacenados en el archivo:
     - Poco dominio de la aplicación y el tema: 50%
     - Buen dominio de la aplicación y el tema con algunas deficiencias - 80%
     - Excelente dominio de la aplicación y el tema: 100%
+
 *** La nota final se obtiene al multiplicar la nota de la aplicación por la nota de la sustentación. ***
